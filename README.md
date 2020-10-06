@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![](./tunnckocore-2020-10-06.png)](http://npm-stats.com/tunnckocore)
+
+_as of October 2020_
