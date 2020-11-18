@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](./tunnckocore-2020-10-06.png)](http://npm-stats.com/tunnckocore "as of October 2020")
+[![](./tunnckocore-2020-11-18.png)](http://npm-stats.com/tunnckocore "as of November 2020")
 
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=tunnckoCore&count_private=true&show_icons=true&include_all_commits=true)](https://github-readme-stats.vercel.app)
