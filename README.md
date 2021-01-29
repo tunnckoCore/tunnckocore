@@ -38,8 +38,8 @@ Combined, my software has ~90 million downloads per month, growing at a fast pac
   + LTC `LdKg5ubACw8dGb8ZieFwfEReyLg4frw9bc`
   + DOGE `DEhgA3xDN5CohxDMnzFdq78WHhJYYrVoC5`
   + ETH, WBTC, ERC20, & NFTs  `0xA20C07F94A127fD76E61fbeA1019cCe759225002`
-- Contact me at [Twitter](https://github.com/tunnckoCore), or via email `dev@tunnckocore.com`
-- Half of each GitHub donation will go to other people and causes
+- Contact me at [Twitter](https://twitter.com/tunnckoCore), or via email `dev@tunnckocore.com`
+- Half of each [GitHub donation](https://github.com/sponsors/tunnckoCore) will go to other people and causes
   + _(you will get monthly info about me and my donations)_
 
 
