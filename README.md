@@ -1,4 +1,4 @@
-## I'm George! 👋
+## I'm Charlike! 👋
 
 Software Engineer for a decade, with a passion for minimalism and music. Delivering delightful digital solutions, marketing, and consultancy. _Currently excited even more about decentralized software and protocols, P2P, cryptocurrencies, and Rust._
 
