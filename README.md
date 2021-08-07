@@ -8,7 +8,7 @@ In the past [7 years](https://twitter.com/hashtag/6yearsOfOpenSource "#6yearsOfO
 
 I'm not just open-sourcing some random stuff by and for me. I've participated in a number of small and big projects like [@JSTransformers](https://github.com/jstransformers), [@date-fns](https://github.com/date-fns), the [@Conventional-Commits](https://github.com/conventional-commits) specification & [@Conventional-Changelog](https://github.com/conventional-changelog), [@Node-Formidable](https://github.com/node-formidable) (lead maintainer and contributor) which is also part of the growing [@Tidelift](https://github.com/tidelift) network, [@MicroJS](https://github.com/microjs) (non-active currently). And also started other projects like [@DateTime](https://github.com/datetime) & [@RegexHQ](https://github.com/regexhq), where we collaborate and maintain date & time utilities and regular expressions, with some of the biggest names in the (JavaScript) Open Source world - [@johno](https://github.com/johno), [@jonschlinkert](https://github.com/jonschlinkert), [@sindresorhus](https://github.com/sindresorhus), [@AddyOsmani](https://github.com/addyosmany), [@MathiasBynens](https://github.com/MathiasBynens), [Tom Byrer](https://github.com/tomByrer) and more. The organizations are not that active, but in general they are stable small packages and not that bad.
 
-Combined, my software has ~90 million downloads per month, growing at a fast pace, and is used by some small and big projects & companies like
+Combined, my software has ~110 million downloads per month, growing at a fast pace, and is used by some small and big projects & companies like
 
 * [@Microsoft](https://github.com/microsoft) - as a deep dependency in some of their software
 * [Ethereum](https://github.com/ethereum) - in several communities and tokens around it
@@ -27,7 +27,13 @@ Combined, my software has ~90 million downloads per month, growing at a fast pac
 ...and many more. It's just hard to track or at least takes a lot of time.
 
 
+_As of November 2020:_
+
 [![](./tunnckocore-2020-11-18.png)](http://npm-stats.com/tunnckocore "as of November 2020")
+
+_As of August 2021, it grown to **2.4 billion** total downloads and 110 million per month._  
+You can always dig in at my charts [on Npm-Stat.com](https://npm-stat.com/charts.html?author=tunnckocore&from=2015-08-01) (takes time to load).
+
 
 ## Love and Support
 
