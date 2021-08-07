@@ -33,6 +33,7 @@ _As of November 2020:_
 
 _As of August 2021, it grown to **2.4 billion** total downloads and 110 million per month._  
 You can always dig in at my charts [on Npm-Stat.com](https://npm-stat.com/charts.html?author=tunnckocore&from=2015-08-01) (takes time to load).
+![image](https://user-images.githubusercontent.com/5038030/128602254-0cf4525d-3596-4462-96b1-bf3f65138606.png)
 
 
 ## Love and Support
