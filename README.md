@@ -35,7 +35,7 @@ _As of August 2021, it grown to **2.4 billion** total downloads, and 110 million
 You can always dig in at my charts [on Npm-Stat.com](https://npm-stat.com/charts.html?author=tunnckocore&from=2015-08-01) (takes time to load).
 ![image](https://user-images.githubusercontent.com/5038030/128602254-0cf4525d-3596-4462-96b1-bf3f65138606.png)
 
-_As of June 1, 2022, it grown to **3.439 billion** total downloads, and 120 million per month._ _  
+_As of June 1, 2022, it grown to **3.439 billion** total downloads, and 120 million per month._  
 ![image](https://user-images.githubusercontent.com/5038030/171464890-7e6561e9-4919-4e1c-8670-4d2b17f87ab0.png)
 
 
