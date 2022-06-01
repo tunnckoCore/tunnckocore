@@ -27,25 +27,30 @@ Combined, my software has ~110 million downloads per month, growing at a fast pa
 ...and many more. It's just hard to track or at least takes a lot of time.
 
 
-_As of November 2020:_
+_As of November 18, 2020:_
 
-[![](./tunnckocore-2020-11-18.png)](http://npm-stats.com/tunnckocore "as of November 2020")
+[![](./tunnckocore-2020-11-18.png)](https://github.com/tunnckoCore "as of November 2020")
 
-_As of August 2021, it grown to **2.4 billion** total downloads and 110 million per month._  
+_As of August 2021, it grown to **2.4 billion** total downloads, and 110 million per month._  
 You can always dig in at my charts [on Npm-Stat.com](https://npm-stat.com/charts.html?author=tunnckocore&from=2015-08-01) (takes time to load).
 ![image](https://user-images.githubusercontent.com/5038030/128602254-0cf4525d-3596-4462-96b1-bf3f65138606.png)
+
+_As of June 1, 2022, it grown to **3.439 billion** total downloads, and 120 million per month._ _  
+![image](https://user-images.githubusercontent.com/5038030/171464890-7e6561e9-4919-4e1c-8670-4d2b17f87ab0.png)
+
+
 
 
 ## Love and Support
 
 - For smaller recurring or one-time donations, check https://ko-fi.com/tunnckoCore
-- For crypto lovers - `tunnckocore.eth` is my ENS and accept BTC, ETH, DOGE, LTC
+- For crypto lovers - `tunnckocore.eth` is my ENS and accepts BTC, ETH, DOGE, LTC
 - If ENS domains is not supported by your wallet:
   + BTC `bc1qdfe7najz9wg9hrl0heaze8k3v9vqvewf846ct8`
   + LTC `LdKg5ubACw8dGb8ZieFwfEReyLg4frw9bc`
   + DOGE `DEhgA3xDN5CohxDMnzFdq78WHhJYYrVoC5`
   + ETH, WBTC, ERC20, & NFTs  `0xA20C07F94A127fD76E61fbeA1019cCe759225002`
-- Contact me at [Twitter](https://twitter.com/tunnckoCore), or via email `dev@tunnckocore.com`
+- Contact me at [Twitter](https://twitter.com/tunnckoCore), or via email `dev` `at` `tunnckocore.com`
 - Half of each [GitHub donation](https://github.com/sponsors/tunnckoCore) will go to other people and causes
   + _(you will get monthly info about me and my donations)_
 
