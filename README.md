@@ -32,9 +32,12 @@ Combined, my software has ~140 million downloads per month, growing at a fast pa
 You can always dig in at my account charts [on Npm-Stat.com](https://npm-stat.com/charts.html?author=tunnckocore&from=2015-08-01) (takes time to load).
 Or the ever-pumping charts of [formidable](https://npm-stat.com/charts.html?package=formidable&from=2015-08-01&to=2023-02-27).
 
+_As of March 27, 2024, it grown to **5.8 billion** total downloads, and 125 million per month._  
+![image](https://github.com/tunnckoCore/tunnckocore/assets/5038030/7c547dc5-11f3-4c48-85a0-dfbb2ab95756)
+
+
 _As of March 1, 2023, it grown to **4.392 billion** total downloads, and 140 million per month._  
 ![image](https://user-images.githubusercontent.com/5038030/221848329-9af98b75-4ddb-4ab7-9911-7aaa1557324f.png)
-
 
 _As of June 1, 2022, it grown to **3.439 billion** total downloads, and 120 million per month._  
 ![image](https://user-images.githubusercontent.com/5038030/171464890-7e6561e9-4919-4e1c-8670-4d2b17f87ab0.png)
