@@ -1,7 +1,10 @@
-## I'm Charlike! 👋
+## Hi, I'm.. 👋
 
-_(todo: update)_
+[_As of April 23, 2026, I'm at **10+ billion** total NPM downloads, **3.2b** in the past year, and **~300 million** monthly._](https://npm-downloads-next.vercel.app/author/tunnckocore?from=2025-04-23&to=2026-04-23&interval=monthly)
 
+In 2026, among dozen other things, I've built a better alternative to NpmStats, because it was too slow and broken, called [Npm-Downloads](https://npm-downloads-next.vercel.app). The engineering behind it is quite fascinating and insane, because we need to fight the limits of the NPM API.. but it works flawlessly. Dig in the repository for it [tunnckoCore/npm-downloads-nextjs](https://github.com/tunnckoCore/npm-downloads-nextjs).
+
+---
 
 Software Engineer for 15+ years, with a passion for minimalism and music. Delivering delightful digital solutions, marketing, and consultancy. _Currently excited even more about decentralized software and protocols, P2P, cryptocurrencies, and Rust._
 
@@ -32,8 +35,13 @@ Combined, my software has ~140 million downloads per month, growing at a fast pa
 
 ...and many more. It's just hard to track or at least takes a lot of time.
 
+<br>
+
+<!--
+
 You can always dig in at my account charts [on Npm-Stat.com](https://npm-stat.com/charts.html?author=tunnckocore&from=2015-08-01) (takes time to load).
 Or the ever-pumping charts of [formidable](https://npm-stat.com/charts.html?package=formidable&from=2015-08-01&to=2023-02-27).
+-->
 
 _As of March 27, 2024, it grown to **5.8 billion** total downloads, and 125 million per month._  
 ![image](https://github.com/tunnckoCore/tunnckocore/assets/5038030/7c547dc5-11f3-4c48-85a0-dfbb2ab95756)
@@ -52,6 +60,7 @@ _As of November 18, 2020_
 [![](./tunnckocore-2020-11-18.png)](https://github.com/tunnckoCore "as of November 2020")
 
 
+<!--
 
 ## Love and Support
 
@@ -66,5 +75,6 @@ _As of November 18, 2020_
 - Half of each [GitHub donation](https://github.com/sponsors/tunnckoCore) will go to other people and causes
   + _(you will get monthly info about me and my donations)_
 
+-->
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=tunnckoCore&count_private=true&show_icons=true&include_all_commits=true)](https://github-readme-stats.vercel.app)
