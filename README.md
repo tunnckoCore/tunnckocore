@@ -17,6 +17,7 @@ I'm not just open-sourcing some random stuff by and for me. I've participated in
 Combined, my software has ~140 million downloads per month, growing at a fast pace, and is used by some small and big projects & companies like
 
 * [node-formidable ![node-formidable](https://badgen.net/npm/dw/formidable?label=formidable)](https://github.com/node-formidable/formidable) - multipart/form-data library, used in hundreds of production environments
+* [ReVideo](https://github.com/redotvideo/revideo) - create videos with code
 * [@n8n-io/n8n](https://github.com/search?q=repo%3An8n-io%2Fn8n%20formidable&type=code) - Fair-code workflow automation platform with native AI capabilities
 * [@microsoft/playwright](https://github.com/search?q=repo%3Amicrosoft%2Fplaywright%20formidable&type=code) - browser automation framework and CLi
 * [@Microsoft](https://github.com/microsoft) - as a deep dependency in some of their software
