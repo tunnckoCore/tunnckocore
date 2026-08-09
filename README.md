@@ -1,6 +1,6 @@
 ## Hi, I'm.. 👋
 
-[_As of April 23, 2026, I'm at **10+ billion** total NPM downloads, **3.2b** in the past year, and **~300 million** monthly._](https://npm-downloads-next.vercel.app/author/tunnckocore?from=2025-04-23&to=2026-04-23&interval=monthly)
+[_As of April 23, 2026, I'm at **13+ billion** total NPM downloads, **3.4b** in the past year, and **~500 million** monthly._](https://npm-downloads-nextjs.netlify.app/author/tunnckocore?interval=monthly)
 
 In 2026, among dozen other things, I've built a better alternative to NpmStats, because it was too slow and broken, called [Npm-Downloads](https://npm-downloads-next.vercel.app). The engineering behind it is quite fascinating and insane, because we need to fight the limits of the NPM API.. but it works flawlessly. Dig in the repository for it [tunnckoCore/npm-downloads-nextjs](https://github.com/tunnckoCore/npm-downloads-nextjs).
 
